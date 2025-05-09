@@ -57,3 +57,11 @@ El gitflow que utilizamos para hacer nuestro proyecto fue el de github flow, tuv
 - Se olvidaba de trabajar en su rama produciendo cambios en la rama main directamente.
 
 - Hizo cambios a calculadora.py sin antes actualizar el repositorio remoto por lo que casi causa conflictos pusheando cambios en una version anterior.
+
+## Git alias utilizados
+
+``git config --global alias.br branch``
+
+``git config --global alias.cm commit``
+
+``git config --global alias.st status``
