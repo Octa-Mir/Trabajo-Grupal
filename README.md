@@ -1,2 +1,4 @@
-# Trabajo-Grupal
+# CALCULADORA SIMPLE EN PYTHON
 Creacion de una calculadora
+### NOMBRE DEL EQUIPO
+*LOS THUNDERGITS*
