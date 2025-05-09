@@ -40,3 +40,20 @@ El gitflow que utilizamos para hacer nuestro proyecto fue el de github flow, tuv
 - El codigo base que presento tenia fallos al compilar.
 
 - Algunos de los cambios lo hizo en la rama principal por olvidarse de trabajar en su propia rama.
+
+### Mauricio
+
+**Bueno**
+
+- Hizo commits concisos y faciles de entender.
+
+- La creacion de su rama junto el merge de sus cambios fueron eficentes y siN problemas.
+
+- Las pull request que hizo tenian una explicacion detallada y directa.
+
+**Malo**
+- Tuvo problemas para hacer push en el repositorio remoto por no tener sus sshs.
+
+- Se olvidaba de trabajar en su rama produciendo cambios en la rama main directamente.
+
+- Hizo cambios a calculadora.py sin antes actualizar el repositorio remoto por lo que casi causa conflictos pusheando cambios en una version anterior.
