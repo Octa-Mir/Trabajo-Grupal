@@ -65,3 +65,5 @@ El gitflow que utilizamos para hacer nuestro proyecto fue el de github flow, tuv
 ``git config --global alias.cm commit``
 
 ``git config --global alias.st status``
+
+## esto solo es una prueba
